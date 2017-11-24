@@ -1,0 +1,50 @@
+
+
+.temperature {
+    margin-top:30px;
+    margin-bottom:5px;
+    font-size:32px;
+    font-weight: bold;
+    width: 150px;
+}
+
+.location {
+    font-size: 18px;
+    width:100%;
+    width:150px;
+}
+
+
+
+.humidity {
+    padding: 8px;
+}
+
+#background{
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:auto;
+    min-width: 100%;
+    
+    
+}
+
+#shadow {  
+
+height:10%;
+box-shadow: 10px 10px 20px grey;
+
+}
+
+body h1{
+  font-size: 6em;
+  font-family: 'Berkshire Swash', cursive;
+  color:burlywood;
+  margin-top:10%;;
+}
+.icon{
+    background-size: 100% auto;
+}
+
